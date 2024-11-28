@@ -10,10 +10,6 @@ I’ve been crafting immersive and stunning web applications with an intense foc
 - 👉 Proficient in Small Business Website to SaaS Applications
 - 👉 Hidden Benefits: Website Optimisation, Quality Assurance & much more...
 
-#### Fun Facts
-- ⭐️ Proud creator of the [favicon.one](https://favicon.one)
-- 👉 To whom it may concern, [enablejavascript.dev](https://enablejavascript.dev)
-
 #### What I've Created
 - Robust Web Apps
 - Trustworthy REST APIs
@@ -21,5 +17,3 @@ I’ve been crafting immersive and stunning web applications with an intense foc
 - Dynamic and Engaging Websites
 
 I'm not just a developer but a partner in your online journey. Let's collaborate to expand your business online, reach more prospective clients, and boost your overall sales. 🤩
-
-Feel free to [consult with me](https://kumardeepak.me/schedule-your-consultation), and let's bring your digital ideas to life!
