@@ -1,5 +1,3 @@
-<img src="https://kumardeepak.me/images/logo_second.png" width="35">
-
 I'm [Deepak Kumar](https://kumardeepak.me), a startup enthusiast and a seasoned full-stack web developer with over a decade of experience.
 
 I’ve been crafting immersive and stunning web applications with an intense focus on both code quality and user-centric design.
